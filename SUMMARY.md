@@ -2,3 +2,5 @@
 
 * [Configuración general](README.md)
 * [plantilla](plantilla.md)
+* [Crear Ruleta](crear-ruleta/README.md)
+  * [Configuraciones según verticales seleccionadas Ruleta.](crear-ruleta/configuraciones-segun-verticales-seleccionadas-ruleta..md)

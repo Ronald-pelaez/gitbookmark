@@ -14,7 +14,7 @@ description: >-
 
 ## 2. Visualización:
 
-<figure><img src=".gitbook/assets/image.png" alt=""><figcaption><p>Figura #1: Captura de pantalla configuración general.</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (3).png" alt=""><figcaption><p>Figura #1: Captura de pantalla configuración general.</p></figcaption></figure>
 
 ### 🧑‍💻 2. Acciones del Usuario
 
