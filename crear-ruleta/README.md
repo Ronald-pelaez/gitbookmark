@@ -2,7 +2,7 @@
 
 Al ingresar a esta sección, verás la siguiente visual:
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>Figura #1: Captura de pantalla Creación de ruletas.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>Figura #1: Captura de pantalla Creación de ruletas.</p></figcaption></figure>
 
 Aquí podrás configurar los diferentes campos para personalizar tu ruleta. A continuación, se detallan las opciones disponibles:
 
@@ -55,7 +55,7 @@ A continuación, se describen las configuraciones estándar que permanecerán si
 
 En este apartado verás la moneda correspondiente al país seleccionado antes de ingresar a torneos y bonos, al seleccionarla se desplegarán las siguientes configuraciones:
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>Figura #2: Captura de pantalla configuraciones moneda.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>Figura #2: Captura de pantalla configuraciones moneda.</p></figcaption></figure>
 
 Las opciones disponibles son las siguientes:
 
