@@ -9,3 +9,5 @@
 * [Depositar.](depositar..md)
 * [Retirar.](retirar..md)
 * [Page 1](page-1.md)
+* [Crear Torneo](crear-torneo/README.md)
+  * [Configuraciones según verticales seleccionadas Torneo.](crear-torneo/configuraciones-segun-verticales-seleccionadas-torneo..md)
