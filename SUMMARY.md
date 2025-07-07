@@ -6,3 +6,4 @@
   * [Configuraciones según verticales seleccionadas Ruleta.](crear-ruleta/configuraciones-segun-verticales-seleccionadas-ruleta..md)
 * [dashboard deposito](dashboard-deposito.md)
 * [Wallets Crypto](wallets-crypto.md)
+* [Depositar.](depositar..md)
