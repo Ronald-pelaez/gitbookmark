@@ -7,3 +7,4 @@
 * [dashboard deposito](dashboard-deposito.md)
 * [Wallets Crypto](wallets-crypto.md)
 * [Depositar.](depositar..md)
+* [Retirar.](retirar..md)
