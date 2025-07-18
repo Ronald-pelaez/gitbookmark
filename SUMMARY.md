@@ -13,3 +13,4 @@
   * [Configuraciones según verticales seleccionadas Torneo.](crear-torneo/configuraciones-segun-verticales-seleccionadas-torneo..md)
 * [¿Cómo ingresar?](como-ingresar.md)
 * [Verificar cuenta.](verificar-cuenta..md)
+* [Merkur.](merkur..md)

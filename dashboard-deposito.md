@@ -8,7 +8,7 @@
 
 ## 🖼️2. Visualización
 
-<figure><img src=".gitbook/assets/image.png" alt=""><figcaption><p>Figura #1: Captura de pantalla dashboard.</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (2).png" alt=""><figcaption><p>Figura #1: Captura de pantalla dashboard.</p></figcaption></figure>
 
 ***
 
