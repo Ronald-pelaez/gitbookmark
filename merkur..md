@@ -2,6 +2,8 @@
 description: >-
   Aquí encontrarás información importante que se debe tener en cuenta al momento
   de la creación de un bono FreeSpin para Merkur.
+vars:
+  produc: elproduc
 ---
 
 # Merkur.
